@@ -1,0 +1,14 @@
+# Môi trường ảo Python (Tuyệt đối không commit lên Git)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE & Cấu hình cục bộ
+.vscode/
+.idea/
+
+# File tạm hệ điều hành
+Thumbs.db
+Desktop.ini
+.DS_Store
